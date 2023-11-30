@@ -27,6 +27,7 @@ int main()
 			
 		}
 		int diff=chef-son;
-		cout<<diff;
+		int ans=diff-son;
+                cout<<ans;
 	}
 }
